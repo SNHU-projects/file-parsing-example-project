@@ -1,6 +1,7 @@
 //============================================================================
 // Name        : Lab2-1.cpp
 // Author      : Jef DeWitt
+// Date        : 5.13.20
 // Version     : 1.0
 // Copyright   : Copyright © 2017 SNHU COCE
 // Description : Lab 2-1 Up to Speed in C++, Part 2
